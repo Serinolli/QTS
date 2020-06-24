@@ -1,0 +1,7 @@
+C:\Users\VS2017\Desktop\QTS\Questao01-NotaNeg\Questao01-NotaNeg\obj\Debug\Questao01-NotaNeg.csprojAssemblyReference.cache
+C:\Users\VS2017\Desktop\QTS\Questao01-NotaNeg\Questao01-NotaNeg\obj\Debug\Questao01-NotaNeg.csproj.CoreCompileInputs.cache
+C:\Users\VS2017\Desktop\QTS\Questao01-NotaNeg\Questao01-NotaNeg\bin\Debug\Questao01-NotaNeg.exe.config
+C:\Users\VS2017\Desktop\QTS\Questao01-NotaNeg\Questao01-NotaNeg\bin\Debug\Questao01-NotaNeg.exe
+C:\Users\VS2017\Desktop\QTS\Questao01-NotaNeg\Questao01-NotaNeg\bin\Debug\Questao01-NotaNeg.pdb
+C:\Users\VS2017\Desktop\QTS\Questao01-NotaNeg\Questao01-NotaNeg\obj\Debug\Questao01-NotaNeg.exe
+C:\Users\VS2017\Desktop\QTS\Questao01-NotaNeg\Questao01-NotaNeg\obj\Debug\Questao01-NotaNeg.pdb
